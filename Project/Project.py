@@ -199,5 +199,4 @@ def Ishihara_on_video():
     cam.release()
     cv2.destroyAllWindows()
 
-
-#Ishihara_on_video()
+Ishihara_on_video()
