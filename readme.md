@@ -1,1 +1,1 @@
-In order to execute the project properly, you first have to download the pytesseract module using the attached file. Please make sure that the path in the project.py file is the same as the path of your tesseract.exe file (I put all pytesseract in a folder named tess)
+In order to execute the project properly, you first have to download the pytesseract module using the attached file. Please make sure that the path in the project.py file is the same as the path of your tesseract.exe file (I put all the pytesseract files in a folder named tess)
